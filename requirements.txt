@@ -5,8 +5,6 @@ idna
 mutagen
 pyaes
 pycryptodome
-
-
 PySocks
 python-dotenv
 requests
@@ -22,17 +20,10 @@ pytz
 umongo
 speedtest-cli
 ffmpeg
-
-
+ffprobe
 pyrogram==2.0.106
 tgcrypto
-
 pyromod==1.5
-
-
-
-
-ffprobe
 asyncio
 humanize
 uvloop
