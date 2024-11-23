@@ -1,3 +1,5 @@
+ffprobe -version
+
 async-lru
 certifi
 charset-normalizer
@@ -20,7 +22,6 @@ pytz
 umongo
 speedtest-cli
 ffmpeg
-ffprobe
 pyrogram==2.0.106
 tgcrypto
 pyromod==1.5
